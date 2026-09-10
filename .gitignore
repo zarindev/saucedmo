@@ -1,0 +1,11 @@
+node_modules/
+test-results/
+playwright-report/
+playwright/.cache/
+blob-report/
+.env
+.env.local
+*.log
+npm-debug.log*
+.DS_Store
+dist/
