@@ -2,7 +2,7 @@
 
 Playwright + TypeScript end-to-end test suite for [saucedemo.com](https://www.saucedemo.com), built with a Page Object Model architecture across Chromium, Firefox, WebKit, and mobile viewport.
 
-[![Playwright Tests](https://github.com/zarindev/sauce-demo-qa-automation/actions/workflows/playwright.yml/badge.svg)](https://github.com/zarindev/sauce-demo-qa-automation/actions/workflows/playwright.yml)
+[![Playwright Tests](https://github.com/zarindev/saucedmo/actions/workflows/playwright.yml/badge.svg)](https://github.com/zarindev/saucedmo/actions/workflows/playwright.yml)
 ![TypeScript](https://img.shields.io/badge/TypeScript-7.0-3178C6?logo=typescript&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-1.63-2EAD33?logo=playwright&logoColor=white)
 ![License](https://img.shields.io/badge/license-MIT-blue)
@@ -50,7 +50,7 @@ This is the difference between a suite that only proves happy paths work and one
 ## Project structure
 
 ```
-sauce-demo-qa-automation/
+saucedmo/
 ├── .github/
 │   └── workflows/
 │       └── playwright.yml       # CI: push/PR to main + weekly cron
