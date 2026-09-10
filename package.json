@@ -1,5 +1,5 @@
 {
-  "name": "sauce-demo-qa-automation",
+  "name": "saucedmo",
   "version": "1.0.0",
   "description": "Playwright + TypeScript E2E test automation suite (Page Object Model) for saucedemo.com",
   "private": true,
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zarindev/sauce-demo-qa-automation.git"
+    "url": "git+https://github.com/zarindev/saucedmo.git"
   },
   "keywords": [
     "playwright",
@@ -25,9 +25,9 @@
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/zarindev/sauce-demo-qa-automation/issues"
+    "url": "https://github.com/zarindev/saucedmo/issues"
   },
-  "homepage": "https://github.com/zarindev/sauce-demo-qa-automation#readme",
+  "homepage": "https://github.com/zarindev/saucedmo#readme",
   "devDependencies": {
     "@playwright/test": "^1.63.0",
     "@types/node": "^22.20.2",
